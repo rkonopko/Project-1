@@ -10,6 +10,7 @@ body	{
 
 h1 {
 	color: rgb(21,94,135);
+	font-size: 44px;
 }
 
 h2{
@@ -21,5 +22,9 @@ h2{
 }
 
 #work {
+	background-color: rgb(26,26,26);
+}
+
+#int {
 	background-color: rgb(26,26,26);
 }
