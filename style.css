@@ -8,15 +8,18 @@ body	{
     border-color: rgb(16,26,66);
 }
 
-
-#edu {
-	background-color: rgb(26,26,26);
-}
-
 h1 {
 	color: rgb(21,94,135);
 }
 
 h2{
 	color: rgb(21,94,135);
+}
+
+#edu {
+	background-color: rgb(26,26,26);
+}
+
+#work {
+	background-color: rgb(26,26,26);
 }
